@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThisIsAyan
+- 👋 Hi, I’m @Ayan Das
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on ...
